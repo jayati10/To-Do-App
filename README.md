@@ -23,6 +23,6 @@ Our To-Do List Management System is a comprehensive application designed to help
 1. *Frontend*:
  - React.js for building the user interface.
 
-2.*Backend*:
+ 2.*Backend*:
  - Node.js and Express.js for server-side operations.
 
